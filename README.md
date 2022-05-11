@@ -92,6 +92,6 @@ Just to give a few commands, here's some:
 
 Extra Credits:
 
- [Stanley](https://github.com/Stanley-GF) (Discord Injection Script)
+ (Discord Injection Script)
 
- [Kaneki](https://github.com/KanekiWeb)  (Simple Base Code)
+ [Kaneki]()  (Simple Base Code)
