@@ -15,7 +15,7 @@
 
 *If you would like to contribute/help, please star this repository or make a pull request with useful changes!*
 
-**DISCORD: doop#4247**
+**DISCORD: !         ⽔ | 𝘿𝘼𝙓 ɢʜᴏᴜʟ#7468 **
 
 # Usage
 - Program Switches (Modify the Program!)
